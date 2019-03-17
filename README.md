@@ -13,7 +13,4 @@ Author: Giorgi Gioshvili
 Submitted: 2019/03/25
 
 
-
-Requirements:
-
-RStudio
+# R Code
