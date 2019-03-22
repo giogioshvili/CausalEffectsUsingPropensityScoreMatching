@@ -7,9 +7,25 @@ Description: Comparison of treatment effect in Randomized Control Trial (RCT) an
  
 Keywords: observational data, causal inference, randomized control trial, propensity score, matching, average treatment on treated
 
-Author: Giorgi Gioshvili
 
-Submitted: 2019/03/22
+#Requirements
 
+1. R & RStudio
+2. Packages
+    a. corrplot
+    b. data.table
+    c. ggplot2
+    d. dplyr
+    e. MatchIt
+    f. stats
+    g. rbounds
+    h. cobalt
+    i. optmatch
+    
+ #Necessary Downloads
+ 
+ 'Criteo' large-scale dataset
+ 
+ Link is given in 'Dataset' folder
 
 
