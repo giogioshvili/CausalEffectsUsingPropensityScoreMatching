@@ -8,21 +8,20 @@ Description: Comparison of treatment effect in Randomized Control Trial (RCT) an
 Keywords: observational data, causal inference, randomized control trial, propensity score, matching, average treatment on treated
 
 
-#Requirements
+# Requirements
 
-1. R & RStudio
-2. Packages
-    a. corrplot
-    b. data.table
-    c. ggplot2
-    d. dplyr
-    e. MatchIt
-    f. stats
-    g. rbounds
-    h. cobalt
-    i. optmatch
+ R & RStudio
+ 
+ Packages:
+    corrplot           stats
+    data.table         rbounds
+    ggplot2            cobalt
+    MatchIt            dplyr
+    optmatch
     
- #Necessary Downloads
+   
+    
+ # Necessary Downloads
  
  'Criteo' large-scale dataset
  
