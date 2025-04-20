@@ -1,4 +1,4 @@
-# CausalEffectsUsingPropensityScoreMatching
+# Causal Effects Using Propensity Score Matching
 
 
 Description: Comparison of treatment effect in Randomized Control Trial (RCT) and Propensity Score Matching methods, conducted on Large-Scale Dataset by 'Criteo'.
